@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Anything Bioinformatics
 - 📫 How to reach me ... 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Integer Overflow makes Gandhi deploy nukes.
 
 <!---
 TejusK123/TejusK123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
